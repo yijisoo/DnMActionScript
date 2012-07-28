@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<row>
+	<name><![CDATA[Los Angeles Lakers]]></name>
+	<m1><![CDATA[40.3]]></m1>
+	<m2><![CDATA[84.1]]></m2>
+	<m3><![CDATA[47.9]]></m3>
+	<m4><![CDATA[7.1]]></m4>
+	<m5><![CDATA[18.7]]></m5>
+	<m6><![CDATA[37.9]]></m6>
+	<m7><![CDATA[21.2]]></m7>
+	<m8><![CDATA[27.4]]></m8>
+	<m9><![CDATA[77.4]]></m9>
+	<m10><![CDATA[12.3]]></m10>
+	<m11><![CDATA[31.9]]></m11>
+	<m12><![CDATA[44.2]]></m12>
+	<m13><![CDATA[23.3]]></m13>
+	<m14><![CDATA[13.4]]></m14>
+	<m15><![CDATA[8.3]]></m15>
+	<m16><![CDATA[5.4]]></m16>
+	<m17><![CDATA[20.2]]></m17>
+	<m18><![CDATA[108.9]]></m18>
+	<m19><![CDATA[Pathetic]]></m19>
+</row>
+<row>
+	<name><![CDATA[Golden State Warriors]]></name>
+	<m1><![CDATA[38.9]]></m1>
+	<m2><![CDATA[86.1]]></m2>
+	<m3><![CDATA[45.2]]></m3>
+	<m4><![CDATA[6.6]]></m4>
+	<m5><![CDATA[18]]></m5>
+	<m6><![CDATA[36.6]]></m6>
+	<m7><![CDATA[22.3]]></m7>
+	<m8><![CDATA[28.9]]></m8>
+	<m9><![CDATA[77]]></m9>
+	<m10><![CDATA[12]]></m10>
+	<m11><![CDATA[30.4]]></m11>
+	<m12><![CDATA[42.4]]></m12>
+	<m13><![CDATA[20.6]]></m13>
+	<m14><![CDATA[14.4]]></m14>
+	<m15><![CDATA[7.9]]></m15>
+	<m16><![CDATA[6.6]]></m16>
+	<m17><![CDATA[22.1]]></m17>
+	<m18><![CDATA[106.7]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Indiana Pacers]]></name>
+	<m1><![CDATA[39.1]]></m1>
+	<m2><![CDATA[86.4]]></m2>
+	<m3><![CDATA[45.2]]></m3>
+	<m4><![CDATA[7.6]]></m4>
+	<m5><![CDATA[20.7]]></m5>
+	<m6><![CDATA[36.8]]></m6>
+	<m7><![CDATA[19.1]]></m7>
+	<m8><![CDATA[23.8]]></m8>
+	<m9><![CDATA[80.3]]></m9>
+	<m10><![CDATA[11.3]]></m10>
+	<m11><![CDATA[32.2]]></m11>
+	<m12><![CDATA[43.6]]></m12>
+	<m13><![CDATA[22.8]]></m13>
+	<m14><![CDATA[14.6]]></m14>
+	<m15><![CDATA[7]]></m15>
+	<m16><![CDATA[5]]></m16>
+	<m17><![CDATA[23.7]]></m17>
+	<m18><![CDATA[104.8]]></m18>
+	<m19><![CDATA[Meh]]></m19>
+</row>
+<row>
+	<name><![CDATA[Phoenix Suns]]></name>
+	<m1><![CDATA[38.6]]></m1>
+	<m2><![CDATA[77.8]]></m2>
+	<m3><![CDATA[49.6]]></m3>
+	<m4><![CDATA[6.6]]></m4>
+	<m5><![CDATA[17.1]]></m5>
+	<m6><![CDATA[38.4]]></m6>
+	<m7><![CDATA[21]]></m7>
+	<m8><![CDATA[27.5]]></m8>
+	<m9><![CDATA[76.3]]></m9>
+	<m10><![CDATA[9.7]]></m10>
+	<m11><![CDATA[31.9]]></m11>
+	<m12><![CDATA[41.6]]></m12>
+	<m13><![CDATA[21.8]]></m13>
+	<m14><![CDATA[15.9]]></m14>
+	<m15><![CDATA[6.4]]></m15>
+	<m16><![CDATA[4.9]]></m16>
+	<m17><![CDATA[20.5]]></m17>
+	<m18><![CDATA[104.7]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Denver Nuggets]]></name>
+	<m1><![CDATA[37.1]]></m1>
+	<m2><![CDATA[78.5]]></m2>
+	<m3><![CDATA[47.2]]></m3>
+	<m4><![CDATA[6.6]]></m4>
+	<m5><![CDATA[17.9]]></m5>
+	<m6><![CDATA[37.1]]></m6>
+	<m7><![CDATA[23.5]]></m7>
+	<m8><![CDATA[31.1]]></m8>
+	<m9><![CDATA[75.7]]></m9>
+	<m10><![CDATA[10.6]]></m10>
+	<m11><![CDATA[30.7]]></m11>
+	<m12><![CDATA[41.2]]></m12>
+	<m13><![CDATA[22.8]]></m13>
+	<m14><![CDATA[15.5]]></m14>
+	<m15><![CDATA[9.1]]></m15>
+	<m16><![CDATA[5.9]]></m16>
+	<m17><![CDATA[22.5]]></m17>
+	<m18><![CDATA[104.3]]></m18>
+	<m19><![CDATA[Meh]]></m19>
+</row>
+<row>
+	<name><![CDATA[New York Knicks]]></name>
+	<m1><![CDATA[37.9]]></m1>
+	<m2><![CDATA[86]]></m2>
+	<m3><![CDATA[44.1]]></m3>
+	<m4><![CDATA[10.3]]></m4>
+	<m5><![CDATA[28.8]]></m5>
+	<m6><![CDATA[35.7]]></m6>
+	<m7><![CDATA[18.3]]></m7>
+	<m8><![CDATA[22.8]]></m8>
+	<m9><![CDATA[80.2]]></m9>
+	<m10><![CDATA[10.9]]></m10>
+	<m11><![CDATA[31.7]]></m11>
+	<m12><![CDATA[42.6]]></m12>
+	<m13><![CDATA[21.5]]></m13>
+	<m14><![CDATA[14.6]]></m14>
+	<m15><![CDATA[7.2]]></m15>
+	<m16><![CDATA[2.4]]></m16>
+	<m17><![CDATA[20.3]]></m17>
+	<m18><![CDATA[104.3]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Orlando Magic]]></name>
+	<m1><![CDATA[36.5]]></m1>
+	<m2><![CDATA[78.8]]></m2>
+	<m3><![CDATA[46.3]]></m3>
+	<m4><![CDATA[10.5]]></m4>
+	<m5><![CDATA[26.2]]></m5>
+	<m6><![CDATA[40.2]]></m6>
+	<m7><![CDATA[19.4]]></m7>
+	<m8><![CDATA[26.8]]></m8>
+	<m9><![CDATA[72.4]]></m9>
+	<m10><![CDATA[10]]></m10>
+	<m11><![CDATA[33]]></m11>
+	<m12><![CDATA[43.1]]></m12>
+	<m13><![CDATA[19.5]]></m13>
+	<m14><![CDATA[13.4]]></m14>
+	<m15><![CDATA[7.2]]></m15>
+	<m16><![CDATA[5.3]]></m16>
+	<m17><![CDATA[20.1]]></m17>
+	<m18><![CDATA[102.9]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Utah Jazz]]></name>
+	<m1><![CDATA[38]]></m1>
+	<m2><![CDATA[79.9]]></m2>
+	<m3><![CDATA[47.6]]></m3>
+	<m4><![CDATA[4.6]]></m4>
+	<m5><![CDATA[13.7]]></m5>
+	<m6><![CDATA[33.7]]></m6>
+	<m7><![CDATA[21.4]]></m7>
+	<m8><![CDATA[28]]></m8>
+	<m9><![CDATA[76.5]]></m9>
+	<m10><![CDATA[11.9]]></m10>
+	<m11><![CDATA[28.9]]></m11>
+	<m12><![CDATA[40.8]]></m12>
+	<m13><![CDATA[24.7]]></m13>
+	<m14><![CDATA[14.5]]></m14>
+	<m15><![CDATA[8.8]]></m15>
+	<m16><![CDATA[4.8]]></m16>
+	<m17><![CDATA[22.5]]></m17>
+	<m18><![CDATA[102.1]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Boston Celtics]]></name>
+	<m1><![CDATA[37.2]]></m1>
+	<m2><![CDATA[76.9]]></m2>
+	<m3><![CDATA[48.4]]></m3>
+	<m4><![CDATA[6.6]]></m4>
+	<m5><![CDATA[16.9]]></m5>
+	<m6><![CDATA[38.8]]></m6>
+	<m7><![CDATA[20.3]]></m7>
+	<m8><![CDATA[26.3]]></m8>
+	<m9><![CDATA[77.2]]></m9>
+	<m10><![CDATA[10.9]]></m10>
+	<m11><![CDATA[31.7]]></m11>
+	<m12><![CDATA[42.6]]></m12>
+	<m13><![CDATA[22.7]]></m13>
+	<m14><![CDATA[15.2]]></m14>
+	<m15><![CDATA[8.5]]></m15>
+	<m16><![CDATA[4.9]]></m16>
+	<m17><![CDATA[23.2]]></m17>
+	<m18><![CDATA[101.3]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Cleveland Cavaliers]]></name>
+	<m1><![CDATA[37.2]]></m1>
+	<m2><![CDATA[78.2]]></m2>
+	<m3><![CDATA[47.5]]></m3>
+	<m4><![CDATA[7.9]]></m4>
+	<m5><![CDATA[20.8]]></m5>
+	<m6><![CDATA[38.1]]></m6>
+	<m7><![CDATA[18.9]]></m7>
+	<m8><![CDATA[25]]></m8>
+	<m9><![CDATA[75.4]]></m9>
+	<m10><![CDATA[10.5]]></m10>
+	<m11><![CDATA[31.2]]></m11>
+	<m12><![CDATA[41.7]]></m12>
+	<m13><![CDATA[20.3]]></m13>
+	<m14><![CDATA[12.2]]></m14>
+	<m15><![CDATA[7.6]]></m15>
+	<m16><![CDATA[5.6]]></m16>
+	<m17><![CDATA[20.4]]></m17>
+	<m18><![CDATA[101]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Dallas Mavericks]]></name>
+	<m1><![CDATA[38]]></m1>
+	<m2><![CDATA[82.8]]></m2>
+	<m3><![CDATA[46]]></m3>
+	<m4><![CDATA[6.9]]></m4>
+	<m5><![CDATA[20]]></m5>
+	<m6><![CDATA[34.3]]></m6>
+	<m7><![CDATA[17.7]]></m7>
+	<m8><![CDATA[21.6]]></m8>
+	<m9><![CDATA[81.9]]></m9>
+	<m10><![CDATA[11.2]]></m10>
+	<m11><![CDATA[31.9]]></m11>
+	<m12><![CDATA[43.1]]></m12>
+	<m13><![CDATA[21.4]]></m13>
+	<m14><![CDATA[12.9]]></m14>
+	<m15><![CDATA[7]]></m15>
+	<m16><![CDATA[5.5]]></m16>
+	<m17><![CDATA[19]]></m17>
+	<m18><![CDATA[100.7]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Chicago Bulls]]></name>
+	<m1><![CDATA[37.7]]></m1>
+	<m2><![CDATA[83.8]]></m2>
+	<m3><![CDATA[45]]></m3>
+	<m4><![CDATA[6]]></m4>
+	<m5><![CDATA[16.1]]></m5>
+	<m6><![CDATA[37.2]]></m6>
+	<m7><![CDATA[18.7]]></m7>
+	<m8><![CDATA[23.8]]></m8>
+	<m9><![CDATA[78.3]]></m9>
+	<m10><![CDATA[11.9]]></m10>
+	<m11><![CDATA[30.2]]></m11>
+	<m12><![CDATA[42.2]]></m12>
+	<m13><![CDATA[21.2]]></m13>
+	<m14><![CDATA[14.2]]></m14>
+	<m15><![CDATA[7.4]]></m15>
+	<m16><![CDATA[5.7]]></m16>
+	<m17><![CDATA[22.1]]></m17>
+	<m18><![CDATA[100]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Sacramento Kings]]></name>
+	<m1><![CDATA[36]]></m1>
+	<m2><![CDATA[81.3]]></m2>
+	<m3><![CDATA[44.3]]></m3>
+	<m4><![CDATA[6.4]]></m4>
+	<m5><![CDATA[18.2]]></m5>
+	<m6><![CDATA[35]]></m6>
+	<m7><![CDATA[20.5]]></m7>
+	<m8><![CDATA[25.4]]></m8>
+	<m9><![CDATA[80.8]]></m9>
+	<m10><![CDATA[10.4]]></m10>
+	<m11><![CDATA[28.4]]></m11>
+	<m12><![CDATA[38.9]]></m12>
+	<m13><![CDATA[19.9]]></m13>
+	<m14><![CDATA[15.2]]></m14>
+	<m15><![CDATA[6.7]]></m15>
+	<m16><![CDATA[3.9]]></m16>
+	<m17><![CDATA[23.9]]></m17>
+	<m18><![CDATA[99]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Minnesota Timberwolves]]></name>
+	<m1><![CDATA[36.9]]></m1>
+	<m2><![CDATA[83.8]]></m2>
+	<m3><![CDATA[44.1]]></m3>
+	<m4><![CDATA[5.8]]></m4>
+	<m5><![CDATA[17.2]]></m5>
+	<m6><![CDATA[34]]></m6>
+	<m7><![CDATA[19.2]]></m7>
+	<m8><![CDATA[24.9]]></m8>
+	<m9><![CDATA[77.1]]></m9>
+	<m10><![CDATA[12.6]]></m10>
+	<m11><![CDATA[29.7]]></m11>
+	<m12><![CDATA[42.3]]></m12>
+	<m13><![CDATA[20.4]]></m13>
+	<m14><![CDATA[13.6]]></m14>
+	<m15><![CDATA[6.5]]></m15>
+	<m16><![CDATA[4.2]]></m16>
+	<m17><![CDATA[21.9]]></m17>
+	<m18><![CDATA[98.9]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Portland Trail Blazers]]></name>
+	<m1><![CDATA[36.1]]></m1>
+	<m2><![CDATA[78.5]]></m2>
+	<m3><![CDATA[46]]></m3>
+	<m4><![CDATA[7.3]]></m4>
+	<m5><![CDATA[19.2]]></m5>
+	<m6><![CDATA[38.1]]></m6>
+	<m7><![CDATA[19.2]]></m7>
+	<m8><![CDATA[25.1]]></m8>
+	<m9><![CDATA[76.4]]></m9>
+	<m10><![CDATA[13.1]]></m10>
+	<m11><![CDATA[27.8]]></m11>
+	<m12><![CDATA[40.9]]></m12>
+	<m13><![CDATA[20.2]]></m13>
+	<m14><![CDATA[12.2]]></m14>
+	<m15><![CDATA[6.9]]></m15>
+	<m16><![CDATA[4.8]]></m16>
+	<m17><![CDATA[20.9]]></m17>
+	<m18><![CDATA[98.7]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Atlanta Hawks]]></name>
+	<m1><![CDATA[35.9]]></m1>
+	<m2><![CDATA[78.6]]></m2>
+	<m3><![CDATA[45.7]]></m3>
+	<m4><![CDATA[7.8]]></m4>
+	<m5><![CDATA[21.1]]></m5>
+	<m6><![CDATA[36.8]]></m6>
+	<m7><![CDATA[19]]></m7>
+	<m8><![CDATA[25.7]]></m8>
+	<m9><![CDATA[73.9]]></m9>
+	<m10><![CDATA[10.5]]></m10>
+	<m11><![CDATA[29.6]]></m11>
+	<m12><![CDATA[40.1]]></m12>
+	<m13><![CDATA[21.3]]></m13>
+	<m14><![CDATA[12.6]]></m14>
+	<m15><![CDATA[7.6]]></m15>
+	<m16><![CDATA[4.6]]></m16>
+	<m17><![CDATA[20.2]]></m17>
+	<m18><![CDATA[98.6]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[New Jersey Nets]]></name>
+	<m1><![CDATA[35.5]]></m1>
+	<m2><![CDATA[80.1]]></m2>
+	<m3><![CDATA[44.3]]></m3>
+	<m4><![CDATA[7.9]]></m4>
+	<m5><![CDATA[20.6]]></m5>
+	<m6><![CDATA[38.2]]></m6>
+	<m7><![CDATA[19.4]]></m7>
+	<m8><![CDATA[24.9]]></m8>
+	<m9><![CDATA[77.6]]></m9>
+	<m10><![CDATA[11.1]]></m10>
+	<m11><![CDATA[29.6]]></m11>
+	<m12><![CDATA[40.7]]></m12>
+	<m13><![CDATA[19.3]]></m13>
+	<m14><![CDATA[12.8]]></m14>
+	<m15><![CDATA[6.9]]></m15>
+	<m16><![CDATA[4.5]]></m16>
+	<m17><![CDATA[23.1]]></m17>
+	<m18><![CDATA[98.2]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Milwaukee Bucks]]></name>
+	<m1><![CDATA[36.3]]></m1>
+	<m2><![CDATA[81.1]]></m2>
+	<m3><![CDATA[44.8]]></m3>
+	<m4><![CDATA[5.6]]></m4>
+	<m5><![CDATA[16]]></m5>
+	<m6><![CDATA[35.1]]></m6>
+	<m7><![CDATA[19.9]]></m7>
+	<m8><![CDATA[25.3]]></m8>
+	<m9><![CDATA[78.4]]></m9>
+	<m10><![CDATA[12.1]]></m10>
+	<m11><![CDATA[29.2]]></m11>
+	<m12><![CDATA[41.3]]></m12>
+	<m13><![CDATA[21.2]]></m13>
+	<m14><![CDATA[14.1]]></m14>
+	<m15><![CDATA[7.1]]></m15>
+	<m16><![CDATA[3.7]]></m16>
+	<m17><![CDATA[23.8]]></m17>
+	<m18><![CDATA[98.1]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Houston Rockets]]></name>
+	<m1><![CDATA[35.5]]></m1>
+	<m2><![CDATA[79.9]]></m2>
+	<m3><![CDATA[44.4]]></m3>
+	<m4><![CDATA[7.4]]></m4>
+	<m5><![CDATA[20.2]]></m5>
+	<m6><![CDATA[36.8]]></m6>
+	<m7><![CDATA[19.6]]></m7>
+	<m8><![CDATA[24.3]]></m8>
+	<m9><![CDATA[80.5]]></m9>
+	<m10><![CDATA[10.7]]></m10>
+	<m11><![CDATA[32.1]]></m11>
+	<m12><![CDATA[42.8]]></m12>
+	<m13><![CDATA[20.2]]></m13>
+	<m14><![CDATA[13.1]]></m14>
+	<m15><![CDATA[6.7]]></m15>
+	<m16><![CDATA[3.7]]></m16>
+	<m17><![CDATA[19]]></m17>
+	<m18><![CDATA[98]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[San Antonio Spurs]]></name>
+	<m1><![CDATA[36.9]]></m1>
+	<m2><![CDATA[79.5]]></m2>
+	<m3><![CDATA[46.4]]></m3>
+	<m4><![CDATA[8]]></m4>
+	<m5><![CDATA[20.5]]></m5>
+	<m6><![CDATA[39.2]]></m6>
+	<m7><![CDATA[15.8]]></m7>
+	<m8><![CDATA[20.7]]></m8>
+	<m9><![CDATA[76.3]]></m9>
+	<m10><![CDATA[8.7]]></m10>
+	<m11><![CDATA[31.6]]></m11>
+	<m12><![CDATA[40.3]]></m12>
+	<m13><![CDATA[21.9]]></m13>
+	<m14><![CDATA[11.8]]></m14>
+	<m15><![CDATA[5.9]]></m15>
+	<m16><![CDATA[4.3]]></m16>
+	<m17><![CDATA[18.8]]></m17>
+	<m18><![CDATA[97.6]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Toronto Raptors]]></name>
+	<m1><![CDATA[36.1]]></m1>
+	<m2><![CDATA[78.7]]></m2>
+	<m3><![CDATA[46]]></m3>
+	<m4><![CDATA[6.1]]></m4>
+	<m5><![CDATA[16.2]]></m5>
+	<m6><![CDATA[37.5]]></m6>
+	<m7><![CDATA[19.1]]></m7>
+	<m8><![CDATA[23.1]]></m8>
+	<m9><![CDATA[82.5]]></m9>
+	<m10><![CDATA[8.8]]></m10>
+	<m11><![CDATA[30.1]]></m11>
+	<m12><![CDATA[38.9]]></m12>
+	<m13><![CDATA[21.7]]></m13>
+	<m14><![CDATA[12.7]]></m14>
+	<m15><![CDATA[6.3]]></m15>
+	<m16><![CDATA[4.9]]></m16>
+	<m17><![CDATA[19.6]]></m17>
+	<m18><![CDATA[97.4]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Oklahoma City Thunder]]></name>
+	<m1><![CDATA[36.6]]></m1>
+	<m2><![CDATA[81.4]]></m2>
+	<m3><![CDATA[44.9]]></m3>
+	<m4><![CDATA[4.1]]></m4>
+	<m5><![CDATA[10.9]]></m5>
+	<m6><![CDATA[37.4]]></m6>
+	<m7><![CDATA[19.9]]></m7>
+	<m8><![CDATA[25.9]]></m8>
+	<m9><![CDATA[76.9]]></m9>
+	<m10><![CDATA[12.1]]></m10>
+	<m11><![CDATA[31]]></m11>
+	<m12><![CDATA[43.1]]></m12>
+	<m13><![CDATA[20.1]]></m13>
+	<m14><![CDATA[16.1]]></m14>
+	<m15><![CDATA[6.8]]></m15>
+	<m16><![CDATA[4.6]]></m16>
+	<m17><![CDATA[20.9]]></m17>
+	<m18><![CDATA[97.1]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Miami Heat]]></name>
+	<m1><![CDATA[36.3]]></m1>
+	<m2><![CDATA[81]]></m2>
+	<m3><![CDATA[44.8]]></m3>
+	<m4><![CDATA[7]]></m4>
+	<m5><![CDATA[19.5]]></m5>
+	<m6><![CDATA[35.9]]></m6>
+	<m7><![CDATA[17.3]]></m7>
+	<m8><![CDATA[23.3]]></m8>
+	<m9><![CDATA[74.4]]></m9>
+	<m10><![CDATA[10.4]]></m10>
+	<m11><![CDATA[29.4]]></m11>
+	<m12><![CDATA[39.8]]></m12>
+	<m13><![CDATA[19.8]]></m13>
+	<m14><![CDATA[12]]></m14>
+	<m15><![CDATA[8.2]]></m15>
+	<m16><![CDATA[5.6]]></m16>
+	<m17><![CDATA[20.5]]></m17>
+	<m18><![CDATA[96.9]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Philadelphia 76ers]]></name>
+	<m1><![CDATA[36.9]]></m1>
+	<m2><![CDATA[80.2]]></m2>
+	<m3><![CDATA[46]]></m3>
+	<m4><![CDATA[4.3]]></m4>
+	<m5><![CDATA[13.2]]></m5>
+	<m6><![CDATA[32.5]]></m6>
+	<m7><![CDATA[18.4]]></m7>
+	<m8><![CDATA[24.8]]></m8>
+	<m9><![CDATA[74.3]]></m9>
+	<m10><![CDATA[12.6]]></m10>
+	<m11><![CDATA[29.9]]></m11>
+	<m12><![CDATA[42.5]]></m12>
+	<m13><![CDATA[20.6]]></m13>
+	<m14><![CDATA[14.6]]></m14>
+	<m15><![CDATA[8]]></m15>
+	<m16><![CDATA[5.6]]></m16>
+	<m17><![CDATA[20.3]]></m17>
+	<m18><![CDATA[96.5]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[New Orleans Hornets]]></name>
+	<m1><![CDATA[34.9]]></m1>
+	<m2><![CDATA[76.6]]></m2>
+	<m3><![CDATA[45.6]]></m3>
+	<m4><![CDATA[7.5]]></m4>
+	<m5><![CDATA[19.4]]></m5>
+	<m6><![CDATA[38.8]]></m6>
+	<m7><![CDATA[18.5]]></m7>
+	<m8><![CDATA[22.8]]></m8>
+	<m9><![CDATA[81.2]]></m9>
+	<m10><![CDATA[9.6]]></m10>
+	<m11><![CDATA[28.9]]></m11>
+	<m12><![CDATA[38.5]]></m12>
+	<m13><![CDATA[19.7]]></m13>
+	<m14><![CDATA[11.9]]></m14>
+	<m15><![CDATA[7.6]]></m15>
+	<m16><![CDATA[4.3]]></m16>
+	<m17><![CDATA[20.6]]></m17>
+	<m18><![CDATA[95.8]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Washington Wizards]]></name>
+	<m1><![CDATA[36.2]]></m1>
+	<m2><![CDATA[81.6]]></m2>
+	<m3><![CDATA[44.3]]></m3>
+	<m4><![CDATA[5]]></m4>
+	<m5><![CDATA[15.7]]></m5>
+	<m6><![CDATA[31.9]]></m6>
+	<m7><![CDATA[16.7]]></m7>
+	<m8><![CDATA[22.1]]></m8>
+	<m9><![CDATA[75.6]]></m9>
+	<m10><![CDATA[11.9]]></m10>
+	<m11><![CDATA[27.9]]></m11>
+	<m12><![CDATA[39.8]]></m12>
+	<m13><![CDATA[20.3]]></m13>
+	<m14><![CDATA[13.3]]></m14>
+	<m15><![CDATA[7.5]]></m15>
+	<m16><![CDATA[4]]></m16>
+	<m17><![CDATA[20.4]]></m17>
+	<m18><![CDATA[94]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Memphis Grizzlies]]></name>
+	<m1><![CDATA[34.8]]></m1>
+	<m2><![CDATA[77.1]]></m2>
+	<m3><![CDATA[45.1]]></m3>
+	<m4><![CDATA[4.7]]></m4>
+	<m5><![CDATA[13.7]]></m5>
+	<m6><![CDATA[34]]></m6>
+	<m7><![CDATA[19.4]]></m7>
+	<m8><![CDATA[25.7]]></m8>
+	<m9><![CDATA[75.2]]></m9>
+	<m10><![CDATA[10]]></m10>
+	<m11><![CDATA[28.2]]></m11>
+	<m12><![CDATA[38.3]]></m12>
+	<m13><![CDATA[16.8]]></m13>
+	<m14><![CDATA[13.9]]></m14>
+	<m15><![CDATA[7.7]]></m15>
+	<m16><![CDATA[4.2]]></m16>
+	<m17><![CDATA[21.9]]></m17>
+	<m18><![CDATA[93.5]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Los Angeles Clippers]]></name>
+	<m1><![CDATA[35.1]]></m1>
+	<m2><![CDATA[81.9]]></m2>
+	<m3><![CDATA[42.8]]></m3>
+	<m4><![CDATA[5.7]]></m4>
+	<m5><![CDATA[17.2]]></m5>
+	<m6><![CDATA[32.9]]></m6>
+	<m7><![CDATA[17.3]]></m7>
+	<m8><![CDATA[22.8]]></m8>
+	<m9><![CDATA[75.9]]></m9>
+	<m10><![CDATA[11.8]]></m10>
+	<m11><![CDATA[29]]></m11>
+	<m12><![CDATA[40.7]]></m12>
+	<m13><![CDATA[20.1]]></m13>
+	<m14><![CDATA[14.1]]></m14>
+	<m15><![CDATA[7]]></m15>
+	<m16><![CDATA[6.3]]></m16>
+	<m17><![CDATA[21]]></m17>
+	<m18><![CDATA[93]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Detroit Pistons]]></name>
+	<m1><![CDATA[35.7]]></m1>
+	<m2><![CDATA[78.6]]></m2>
+	<m3><![CDATA[45.5]]></m3>
+	<m4><![CDATA[4.6]]></m4>
+	<m5><![CDATA[13.4]]></m5>
+	<m6><![CDATA[34.1]]></m6>
+	<m7><![CDATA[16.9]]></m7>
+	<m8><![CDATA[22.7]]></m8>
+	<m9><![CDATA[74.2]]></m9>
+	<m10><![CDATA[10.6]]></m10>
+	<m11><![CDATA[29.9]]></m11>
+	<m12><![CDATA[40.4]]></m12>
+	<m13><![CDATA[20]]></m13>
+	<m14><![CDATA[11.4]]></m14>
+	<m15><![CDATA[6.4]]></m15>
+	<m16><![CDATA[4.9]]></m16>
+	<m17><![CDATA[21]]></m17>
+	<m18><![CDATA[92.9]]></m18>
+	<m19><![CDATA[Ultra Cool]]></m19>
+</row>
+<row>
+	<name><![CDATA[Charlotte Bobcats]]></name>
+	<m1><![CDATA[34]]></m1>
+	<m2><![CDATA[76]]></m2>
+	<m3><![CDATA[44.8]]></m3>
+	<m4><![CDATA[5.5]]></m4>
+	<m5><![CDATA[15.4]]></m5>
+	<m6><![CDATA[35.9]]></m6>
+	<m7><![CDATA[18.3]]></m7>
+	<m8><![CDATA[24.7]]></m8>
+	<m9><![CDATA[74.1]]></m9>
+	<m10><![CDATA[10.6]]></m10>
+	<m11><![CDATA[28.4]]></m11>
+	<m12><![CDATA[39]]></m12>
+	<m13><![CDATA[20.5]]></m13>
+	<m14><![CDATA[15]]></m14>
+	<m15><![CDATA[7.1]]></m15>
+	<m16><![CDATA[4.7]]></m16>
+	<m17><![CDATA[22.4]]></m17>
+	<m18><![CDATA[91.8]]></m18>
+	<m19><![CDATA[Pathetic]]></m19>
+</row>
+</root>

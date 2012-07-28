@@ -1,0 +1,34 @@
+Assumptions:
+- I know where the data type information is in the data schema
+- Data must either be Nominal, ordinal, interval
+- Primary key is often assumed to be 0
+
+Data Problems:
+- Serving size data needs to be converted to same unit
+
+TODO:
+[ ] Refactor code to make component a drag-and-drop flex component
+
+[ ] Restructure data structure
+[ ] DataStatistics for ordinal data / Remove dataStatisticsObject (Doesn't contain correct statistics for ordinal data)
+**Classes SizeTab, ColorTab, MagnetTab
+
+[ ] Fix more efficient version of updateDistMatrix()
+[ ] Better sizeCoder Slider (better tick placement)
+[ ] Display a warning when encoding on an attribute where every tuple has the same value
+
+[ ] If the data is changeable (i.e. through a "load" feature), code must be added to listen for this change
+
+[ ] Add "about" feature
+[ ] Add "Powered by HiveLab"
+
+[ ] Make proper interfacting functions for use by DetailPanel.as
+  [ ] A listener is needed for a particle clicked event (do not listen to the dust particles)
+  
+[ ] Make proper interfacting functions for use by MagnetTab.as
+
+Bugs:
+[ ] Primary key assumptions 
+  [ ] Primary key index should be made functional (DataManager.as)
+  [ ] Change method for finding primary key (DataManager.as)
+  [ ] Look at the assumptions listed at the top of each file

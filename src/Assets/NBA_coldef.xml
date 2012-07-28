@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<row>
+	<abbrev><![CDATA[Team]]></abbrev>
+	<desc><![CDATA[Team name]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[0]]></id>
+	<name><![CDATA[name]]></name>
+	<seq><![CDATA[0]]></seq>
+	<short-title><![CDATA[Team]]></short-title>
+	<title><![CDATA[Team name]]></title>
+	<type><![CDATA[nominal]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[FG M]]></abbrev>
+	<desc><![CDATA[Field Goals Made]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[1]]></id>
+	<name><![CDATA[m1]]></name>
+	<seq><![CDATA[1]]></seq>
+	<short-title><![CDATA[FG M]]></short-title>
+	<title><![CDATA[Field Goals Made]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[FG A]]></abbrev>
+	<desc><![CDATA[Field Goals Attempted]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[2]]></id>
+	<name><![CDATA[m2]]></name>
+	<seq><![CDATA[2]]></seq>
+	<short-title><![CDATA[FG A]]></short-title>
+	<title><![CDATA[Field Goals Attempted]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[FG Pct]]></abbrev>
+	<desc><![CDATA[Field Goals Percentage]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[3]]></id>
+	<name><![CDATA[m3]]></name>
+	<seq><![CDATA[3]]></seq>
+	<short-title><![CDATA[FG Pct]]></short-title>
+	<title><![CDATA[Field Goals Percentage]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[3PT M]]></abbrev>
+	<desc><![CDATA[3 points made]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[4]]></id>
+	<name><![CDATA[m4]]></name>
+	<seq><![CDATA[4]]></seq>
+	<short-title><![CDATA[3PT M]]></short-title>
+	<title><![CDATA[3 points made]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[3PT A]]></abbrev>
+	<desc><![CDATA[3 points attempted]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[5]]></id>
+	<name><![CDATA[m5]]></name>
+	<seq><![CDATA[5]]></seq>
+	<short-title><![CDATA[3PT A]]></short-title>
+	<title><![CDATA[3 points attempted]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[3PT Pct]]></abbrev>
+	<desc><![CDATA[3 points percentage]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[6]]></id>
+	<name><![CDATA[m6]]></name>
+	<seq><![CDATA[6]]></seq>
+	<short-title><![CDATA[3PT Pct]]></short-title>
+	<title><![CDATA[3 points percentage]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[FT M]]></abbrev>
+	<desc><![CDATA[Free throw made]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[7]]></id>
+	<name><![CDATA[m7]]></name>
+	<seq><![CDATA[7]]></seq>
+	<short-title><![CDATA[FT M]]></short-title>
+	<title><![CDATA[Free throw made]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[FT A]]></abbrev>
+	<desc><![CDATA[Free throw attempted]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[8]]></id>
+	<name><![CDATA[m8]]></name>
+	<seq><![CDATA[8]]></seq>
+	<short-title><![CDATA[FT A]]></short-title>
+	<title><![CDATA[Free throw attempted]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[FT Pct]]></abbrev>
+	<desc><![CDATA[Free throw percentage]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[9]]></id>
+	<name><![CDATA[m9]]></name>
+	<seq><![CDATA[9]]></seq>
+	<short-title><![CDATA[FT Pct]]></short-title>
+	<title><![CDATA[Free throw percentage]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[Rebounds Off]]></abbrev>
+	<desc><![CDATA[interval of offense rebounds]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[10]]></id>
+	<name><![CDATA[m10]]></name>
+	<seq><![CDATA[10]]></seq>
+	<short-title><![CDATA[Rebounds Off]]></short-title>
+	<title><![CDATA[interval of offense rebounds]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[Rebounds Def]]></abbrev>
+	<desc><![CDATA[interval of defense rebounds]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[11]]></id>
+	<name><![CDATA[m11]]></name>
+	<seq><![CDATA[11]]></seq>
+	<short-title><![CDATA[Rebounds Def]]></short-title>
+	<title><![CDATA[interval of defense rebounds]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[Rebounds Tot]]></abbrev>
+	<desc><![CDATA[Total interval of rebounds]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[12]]></id>
+	<name><![CDATA[m12]]></name>
+	<seq><![CDATA[12]]></seq>
+	<short-title><![CDATA[Rebounds Tot]]></short-title>
+	<title><![CDATA[Total interval of rebounds]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[Ast]]></abbrev>
+	<desc><![CDATA[Assists]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[13]]></id>
+	<name><![CDATA[m13]]></name>
+	<seq><![CDATA[13]]></seq>
+	<short-title><![CDATA[Ast]]></short-title>
+	<title><![CDATA[Assists]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[TO]]></abbrev>
+	<desc><![CDATA[Turn Over]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[14]]></id>
+	<name><![CDATA[m14]]></name>
+	<seq><![CDATA[14]]></seq>
+	<short-title><![CDATA[TO]]></short-title>
+	<title><![CDATA[Turn Over]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[Stl]]></abbrev>
+	<desc><![CDATA[Steal]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[15]]></id>
+	<name><![CDATA[m15]]></name>
+	<seq><![CDATA[15]]></seq>
+	<short-title><![CDATA[Stl]]></short-title>
+	<title><![CDATA[Steal]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[Blk]]></abbrev>
+	<desc><![CDATA[Blocks]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[16]]></id>
+	<name><![CDATA[m16]]></name>
+	<seq><![CDATA[16]]></seq>
+	<short-title><![CDATA[Blk]]></short-title>
+	<title><![CDATA[Blocks]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[PF]]></abbrev>
+	<desc><![CDATA[Personal Fouls]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[17]]></id>
+	<name><![CDATA[m17]]></name>
+	<seq><![CDATA[17]]></seq>
+	<short-title><![CDATA[PF]]></short-title>
+	<title><![CDATA[Personal Fouls]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[Pts]]></abbrev>
+	<desc><![CDATA[Points]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[18]]></id>
+	<name><![CDATA[m18]]></name>
+	<seq><![CDATA[18]]></seq>
+	<short-title><![CDATA[Pts]]></short-title>
+	<title><![CDATA[Points]]></title>
+	<type><![CDATA[interval]]></type>
+</row>
+<row>
+	<abbrev><![CDATA[Coolness]]></abbrev>
+	<desc><![CDATA[Coolness]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[19]]></id>
+	<name><![CDATA[m19]]></name>
+	<seq><![CDATA[19]]></seq>
+	<short-title><![CDATA[Coolness]]></short-title>
+	<title><![CDATA[Coolness]]></title>
+	<type><![CDATA[ordinal]]></type>
+	<ordinal-type>
+		<ordinal-entry value="3"><![CDATA[Ultra Cool]]></ordinal-entry>
+		<ordinal-entry value="1"><![CDATA[Pathetic]]></ordinal-entry>
+		<ordinal-entry value="2"><![CDATA[Meh]]></ordinal-entry>
+	</ordinal-type>
+</row>
+</root>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<tag>
+	<abbrev><![CDATA[UPC]]></abbrev>
+	<desc><![CDATA[UPC]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[0]]></id>
+	<name><![CDATA[name]]></name>
+	<seq><![CDATA[0]]></seq>
+	<short-title><![CDATA[UPC]]></short-title>
+	<title><![CDATA[UPC]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Brand]]></abbrev>
+	<desc><![CDATA[Brand]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[1]]></id>
+	<name><![CDATA[m1]]></name>
+	<seq><![CDATA[1]]></seq>
+	<short-title><![CDATA[Brand]]></short-title>
+	<title><![CDATA[Brand]]></title>
+	<type><![CDATA[nominal]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Manufacturer]]></abbrev>
+	<desc><![CDATA[Manufacturer]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[2]]></id>
+	<name><![CDATA[m2]]></name>
+	<seq><![CDATA[2]]></seq>
+	<short-title><![CDATA[Manufacturer]]></short-title>
+	<title><![CDATA[Manufacturer]]></title>
+	<type><![CDATA[nominal]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Calcium (%)]]></abbrev>
+	<desc><![CDATA[Calcium (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[3]]></id>
+	<name><![CDATA[m3]]></name>
+	<seq><![CDATA[3]]></seq>
+	<short-title><![CDATA[Calcium (%)]]></short-title>
+	<title><![CDATA[Calcium (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Calories]]></abbrev>
+	<desc><![CDATA[Calories]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[4]]></id>
+	<name><![CDATA[m4]]></name>
+	<seq><![CDATA[4]]></seq>
+	<short-title><![CDATA[Calories]]></short-title>
+	<title><![CDATA[Calories]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Calories from Fat]]></abbrev>
+	<desc><![CDATA[Calories from Fat]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[5]]></id>
+	<name><![CDATA[m5]]></name>
+	<seq><![CDATA[5]]></seq>
+	<short-title><![CDATA[Calories from Fat]]></short-title>
+	<title><![CDATA[Calories from Fat]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Cholesterol (mg)]]></abbrev>
+	<desc><![CDATA[Cholesterol (mg)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[6]]></id>
+	<name><![CDATA[m6]]></name>
+	<seq><![CDATA[6]]></seq>
+	<short-title><![CDATA[Cholesterol (mg)]]></short-title>
+	<title><![CDATA[Cholesterol (mg)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Cholesterol (%)]]></abbrev>
+	<desc><![CDATA[Cholesterol (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[7]]></id>
+	<name><![CDATA[m7]]></name>
+	<seq><![CDATA[7]]></seq>
+	<short-title><![CDATA[Cholesterol (%)]]></short-title>
+	<title><![CDATA[Cholesterol (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Copper (%)]]></abbrev>
+	<desc><![CDATA[Copper (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[8]]></id>
+	<name><![CDATA[m8]]></name>
+	<seq><![CDATA[8]]></seq>
+	<short-title><![CDATA[Copper (%)]]></short-title>
+	<title><![CDATA[Copper (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Dietary Fiber (g)]]></abbrev>
+	<desc><![CDATA[Dietary Fiber (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[9]]></id>
+	<name><![CDATA[m9]]></name>
+	<seq><![CDATA[9]]></seq>
+	<short-title><![CDATA[Dietary Fiber (g)]]></short-title>
+	<title><![CDATA[Dietary Fiber (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Dietary Fiber (%)]]></abbrev>
+	<desc><![CDATA[Dietary Fiber (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[10]]></id>
+	<name><![CDATA[m10]]></name>
+	<seq><![CDATA[10]]></seq>
+	<short-title><![CDATA[Dietary Fiber (%)]]></short-title>
+	<title><![CDATA[Dietary Fiber (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Folic Acid (%)]]></abbrev>
+	<desc><![CDATA[Folic Acid (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[11]]></id>
+	<name><![CDATA[m11]]></name>
+	<seq><![CDATA[11]]></seq>
+	<short-title><![CDATA[Folic Acid (%)]]></short-title>
+	<title><![CDATA[Folic Acid (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Insoluble Fiber (g)]]></abbrev>
+	<desc><![CDATA[Insoluble Fiber (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[12]]></id>
+	<name><![CDATA[m12]]></name>
+	<seq><![CDATA[12]]></seq>
+	<short-title><![CDATA[Insoluble Fiber (g)]]></short-title>
+	<title><![CDATA[Insoluble Fiber (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Iodine (%)]]></abbrev>
+	<desc><![CDATA[Iodine (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[13]]></id>
+	<name><![CDATA[m13]]></name>
+	<seq><![CDATA[13]]></seq>
+	<short-title><![CDATA[Iodine (%)]]></short-title>
+	<title><![CDATA[Iodine (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Iron (%)]]></abbrev>
+	<desc><![CDATA[Iron (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[14]]></id>
+	<name><![CDATA[m14]]></name>
+	<seq><![CDATA[14]]></seq>
+	<short-title><![CDATA[Iron (%)]]></short-title>
+	<title><![CDATA[Iron (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Magnesium (%)]]></abbrev>
+	<desc><![CDATA[Magnesium (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[15]]></id>
+	<name><![CDATA[m15]]></name>
+	<seq><![CDATA[15]]></seq>
+	<short-title><![CDATA[Magnesium (%)]]></short-title>
+	<title><![CDATA[Magnesium (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Monounsaturated Fat (g)]]></abbrev>
+	<desc><![CDATA[Monounsaturated Fat (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[16]]></id>
+	<name><![CDATA[m16]]></name>
+	<seq><![CDATA[16]]></seq>
+	<short-title><![CDATA[Monounsaturated Fat (g)]]></short-title>
+	<title><![CDATA[Monounsaturated Fat (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Niacin (%)]]></abbrev>
+	<desc><![CDATA[Niacin (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[17]]></id>
+	<name><![CDATA[m17]]></name>
+	<seq><![CDATA[17]]></seq>
+	<short-title><![CDATA[Niacin (%)]]></short-title>
+	<title><![CDATA[Niacin (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Other Carbohydrate (g)]]></abbrev>
+	<desc><![CDATA[Other Carbohydrate (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[18]]></id>
+	<name><![CDATA[m18]]></name>
+	<seq><![CDATA[18]]></seq>
+	<short-title><![CDATA[Other Carbohydrate (g)]]></short-title>
+	<title><![CDATA[Other Carbohydrate (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Pantothenic Acid (%)]]></abbrev>
+	<desc><![CDATA[Pantothenic Acid (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[19]]></id>
+	<name><![CDATA[m19]]></name>
+	<seq><![CDATA[19]]></seq>
+	<short-title><![CDATA[Pantothenic Acid (%)]]></short-title>
+	<title><![CDATA[Pantothenic Acid (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Phosphorus (%)]]></abbrev>
+	<desc><![CDATA[Phosphorus (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[20]]></id>
+	<name><![CDATA[m20]]></name>
+	<seq><![CDATA[20]]></seq>
+	<short-title><![CDATA[Phosphorus (%)]]></short-title>
+	<title><![CDATA[Phosphorus (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Polyunsaturated Fat (g)]]></abbrev>
+	<desc><![CDATA[Polyunsaturated Fat (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[21]]></id>
+	<name><![CDATA[m21]]></name>
+	<seq><![CDATA[21]]></seq>
+	<short-title><![CDATA[Polyunsaturated Fat (g)]]></short-title>
+	<title><![CDATA[Polyunsaturated Fat (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Potassium (mg)]]></abbrev>
+	<desc><![CDATA[Potassium (mg)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[22]]></id>
+	<name><![CDATA[m22]]></name>
+	<seq><![CDATA[22]]></seq>
+	<short-title><![CDATA[Potassium (mg)]]></short-title>
+	<title><![CDATA[Potassium (mg)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Potassium (%)]]></abbrev>
+	<desc><![CDATA[Potassium (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[23]]></id>
+	<name><![CDATA[m23]]></name>
+	<seq><![CDATA[23]]></seq>
+	<short-title><![CDATA[Potassium (%)]]></short-title>
+	<title><![CDATA[Potassium (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Protein (g)]]></abbrev>
+	<desc><![CDATA[Protein (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[24]]></id>
+	<name><![CDATA[m24]]></name>
+	<seq><![CDATA[24]]></seq>
+	<short-title><![CDATA[Protein (g)]]></short-title>
+	<title><![CDATA[Protein (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Protein (%)]]></abbrev>
+	<desc><![CDATA[Protein (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[25]]></id>
+	<name><![CDATA[m25]]></name>
+	<seq><![CDATA[25]]></seq>
+	<short-title><![CDATA[Protein (%)]]></short-title>
+	<title><![CDATA[Protein (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Riboflavin (%)]]></abbrev>
+	<desc><![CDATA[Riboflavin (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[26]]></id>
+	<name><![CDATA[m26]]></name>
+	<seq><![CDATA[26]]></seq>
+	<short-title><![CDATA[Riboflavin (%)]]></short-title>
+	<title><![CDATA[Riboflavin (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Saturated Fat (g)]]></abbrev>
+	<desc><![CDATA[Saturated Fat (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[27]]></id>
+	<name><![CDATA[m27]]></name>
+	<seq><![CDATA[27]]></seq>
+	<short-title><![CDATA[Saturated Fat (g)]]></short-title>
+	<title><![CDATA[Saturated Fat (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Saturated Fat (%)]]></abbrev>
+	<desc><![CDATA[Saturated Fat (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[28]]></id>
+	<name><![CDATA[m28]]></name>
+	<seq><![CDATA[28]]></seq>
+	<short-title><![CDATA[Saturated Fat (%)]]></short-title>
+	<title><![CDATA[Saturated Fat (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Saturated Fat Calories]]></abbrev>
+	<desc><![CDATA[Saturated Fat Calories]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[29]]></id>
+	<name><![CDATA[m29]]></name>
+	<seq><![CDATA[29]]></seq>
+	<short-title><![CDATA[Saturated Fat Calories]]></short-title>
+	<title><![CDATA[Saturated Fat Calories]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Serving Size (g)]]></abbrev>
+	<desc><![CDATA[Serving Size (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[30]]></id>
+	<name><![CDATA[m30]]></name>
+	<seq><![CDATA[30]]></seq>
+	<short-title><![CDATA[Serving Size (g)]]></short-title>
+	<title><![CDATA[Serving Size (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Sodium (mg)]]></abbrev>
+	<desc><![CDATA[Sodium (mg)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[31]]></id>
+	<name><![CDATA[m31]]></name>
+	<seq><![CDATA[31]]></seq>
+	<short-title><![CDATA[Sodium (mg)]]></short-title>
+	<title><![CDATA[Sodium (mg)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Sodium (%)]]></abbrev>
+	<desc><![CDATA[Sodium (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[32]]></id>
+	<name><![CDATA[m32]]></name>
+	<seq><![CDATA[32]]></seq>
+	<short-title><![CDATA[Sodium (%)]]></short-title>
+	<title><![CDATA[Sodium (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Soluble Fiber (g)]]></abbrev>
+	<desc><![CDATA[Soluble Fiber (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[33]]></id>
+	<name><![CDATA[m33]]></name>
+	<seq><![CDATA[33]]></seq>
+	<short-title><![CDATA[Soluble Fiber (g)]]></short-title>
+	<title><![CDATA[Soluble Fiber (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Sugars (g)]]></abbrev>
+	<desc><![CDATA[Sugars (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[34]]></id>
+	<name><![CDATA[m34]]></name>
+	<seq><![CDATA[34]]></seq>
+	<short-title><![CDATA[Sugars (g)]]></short-title>
+	<title><![CDATA[Sugars (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Thiamin (%)]]></abbrev>
+	<desc><![CDATA[Thiamin (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[35]]></id>
+	<name><![CDATA[m35]]></name>
+	<seq><![CDATA[35]]></seq>
+	<short-title><![CDATA[Thiamin (%)]]></short-title>
+	<title><![CDATA[Thiamin (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Total Carbohydrate (g)]]></abbrev>
+	<desc><![CDATA[Total Carbohydrate (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[36]]></id>
+	<name><![CDATA[m36]]></name>
+	<seq><![CDATA[36]]></seq>
+	<short-title><![CDATA[Total Carbohydrate (g)]]></short-title>
+	<title><![CDATA[Total Carbohydrate (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Total Carbohydrate (%)]]></abbrev>
+	<desc><![CDATA[Total Carbohydrate (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[37]]></id>
+	<name><![CDATA[m37]]></name>
+	<seq><![CDATA[37]]></seq>
+	<short-title><![CDATA[Total Carbohydrate (%)]]></short-title>
+	<title><![CDATA[Total Carbohydrate (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Total Fat (g)]]></abbrev>
+	<desc><![CDATA[Total Fat (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[38]]></id>
+	<name><![CDATA[m38]]></name>
+	<seq><![CDATA[38]]></seq>
+	<short-title><![CDATA[Total Fat (g)]]></short-title>
+	<title><![CDATA[Total Fat (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Total Fat (%)]]></abbrev>
+	<desc><![CDATA[Total Fat (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[39]]></id>
+	<name><![CDATA[m39]]></name>
+	<seq><![CDATA[39]]></seq>
+	<short-title><![CDATA[Total Fat (%)]]></short-title>
+	<title><![CDATA[Total Fat (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Trans Fat (g)]]></abbrev>
+	<desc><![CDATA[Trans Fat (g)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[40]]></id>
+	<name><![CDATA[m40]]></name>
+	<seq><![CDATA[40]]></seq>
+	<short-title><![CDATA[Trans Fat (g)]]></short-title>
+	<title><![CDATA[Trans Fat (g)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Vitamin A (%)]]></abbrev>
+	<desc><![CDATA[Vitamin A (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[41]]></id>
+	<name><![CDATA[m41]]></name>
+	<seq><![CDATA[41]]></seq>
+	<short-title><![CDATA[Vitamin A (%)]]></short-title>
+	<title><![CDATA[Vitamin A (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Vitamin B12  (%)]]></abbrev>
+	<desc><![CDATA[Vitamin B12  (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[42]]></id>
+	<name><![CDATA[m42]]></name>
+	<seq><![CDATA[42]]></seq>
+	<short-title><![CDATA[Vitamin B12  (%)]]></short-title>
+	<title><![CDATA[Vitamin B12  (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Vitamin B6  (%)]]></abbrev>
+	<desc><![CDATA[Vitamin B6  (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[43]]></id>
+	<name><![CDATA[m43]]></name>
+	<seq><![CDATA[43]]></seq>
+	<short-title><![CDATA[Vitamin B6  (%)]]></short-title>
+	<title><![CDATA[Vitamin B6  (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Vitamin C  (%)]]></abbrev>
+	<desc><![CDATA[Vitamin C  (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[44]]></id>
+	<name><![CDATA[m44]]></name>
+	<seq><![CDATA[44]]></seq>
+	<short-title><![CDATA[Vitamin C  (%)]]></short-title>
+	<title><![CDATA[Vitamin C  (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Vitamin D  (%)]]></abbrev>
+	<desc><![CDATA[Vitamin D  (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[45]]></id>
+	<name><![CDATA[m45]]></name>
+	<seq><![CDATA[45]]></seq>
+	<short-title><![CDATA[Vitamin D  (%)]]></short-title>
+	<title><![CDATA[Vitamin D  (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Vitamin E  (%)]]></abbrev>
+	<desc><![CDATA[Vitamin E  (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[46]]></id>
+	<name><![CDATA[m46]]></name>
+	<seq><![CDATA[46]]></seq>
+	<short-title><![CDATA[Vitamin E  (%)]]></short-title>
+	<title><![CDATA[Vitamin E  (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+<tag>
+	<abbrev><![CDATA[Zinc  (%)]]></abbrev>
+	<desc><![CDATA[Zinc  (%)]]></desc>
+	<direction><![CDATA[1]]></direction>
+	<id><![CDATA[47]]></id>
+	<name><![CDATA[m47]]></name>
+	<seq><![CDATA[47]]></seq>
+	<short-title><![CDATA[Zinc  (%)]]></short-title>
+	<title><![CDATA[Zinc  (%)]]></title>
+	<type><![CDATA[interval]]></type>
+</tag>
+</root>
